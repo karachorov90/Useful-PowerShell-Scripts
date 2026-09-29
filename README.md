@@ -1,4 +1,4 @@
-PowerShell scripts ps1 and exe for Windows that some may find useful.
+PowerShell scripts ps1 and exe files for Windows that some may find useful.
 .NET and build in Windows UI only.
 
 1. SysMon - Real time resources monitoring.
