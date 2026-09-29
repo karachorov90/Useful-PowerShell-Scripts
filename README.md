@@ -6,4 +6,4 @@ PowerShell scripts ps1 and exe files for Windows that some may find useful.
 3. SysInfo - Gets system info like RAM, CPU, Storage.
 4. OfficeInfo - Gets your installed Microsoft office info like version, build etc.
 
-There is a notepad with PowerShell command for creating shortcut to the ps1 file because some antivirus software may take the exe as a thread. It works perfect like this. The ps1 file can be stored on a server with shortcut on the hosts.
+There is a notepad with PowerShell script for creating shortcut to the ps1 file because some antivirus software may take the exe as a thread. It works perfect like this. The ps1 file can be stored on a server with shortcut on the hosts.
